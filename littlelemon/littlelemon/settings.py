@@ -175,3 +175,5 @@ DJOSER = {
         'user_create': 'djoser.serializers.UserCreateSerializer',
     }
 }
+
+TEST_RUNNER = 'django.test.runner.DiscoverRunner'
