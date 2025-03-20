@@ -42,7 +42,7 @@ Activate the virtual environment:
 
 ### **3️⃣ Install Dependencies**  
 ```sh
-pip install -r requirements.txt
+pipenv install --ignore-pipfile
 ```
 
 ### **4️⃣ Apply Migrations**  
